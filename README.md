@@ -1,0 +1,1 @@
+This repository contains materials for COMP7810 (Business Intelligence) course project at Hong Kong Baptist University. The project was about preprocessing, modelling and finding business insights from telecom churn data. The code was implemented using Python.
